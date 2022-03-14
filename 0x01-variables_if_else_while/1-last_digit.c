@@ -4,7 +4,7 @@
 /**
  * main - where programs are executed
  *
- * st_digit.ciReturn: returns 0
+ * Return: returns 0
  */
 int main(void)
 {
